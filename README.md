@@ -20,7 +20,7 @@ A simple command-line file manager built using Python that performs basic file o
 
 1. Clone the repository
 
-git clone https://github.com/yourusername/python-file-manager.git
+git clone [https://github.com/yourusername/python-file-manager.git](https://github.com/manumay1962/File-Manager-using-Python-CRUD-Operations-.git)
 
 2. Run the program
 
